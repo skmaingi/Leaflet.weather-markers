@@ -1,0 +1,22 @@
+{
+  "name": "leaflet.weather-markers",
+  "version": "3.0.0",
+  "homepage": "https://github.com/tallsam/Leaflet.weather-markers",
+  "authors": [
+    "Sam Hassell <samhassell@gmail.com>"
+  ],
+  "description": "Weather markers for Leaflet, based on the Erik Flower's Weather Icons",
+  "main": [
+    "dist/leaflet.weather-markers.css",
+    "dist/leaflet.weather-markers.js"
+  ],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skmaingi/Leaflet.weather-markers"
+  }
+}
